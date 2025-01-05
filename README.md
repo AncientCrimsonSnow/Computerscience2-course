@@ -1,0 +1,1 @@
+Contains all projects which we had in our Cs 2 course. We used the software "Eclipse" to code in Java. We worked in teams of two. There is in each projectfile a PDF which explains how the code is structured
